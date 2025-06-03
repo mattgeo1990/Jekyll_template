@@ -1,0 +1,1 @@
+Place your 'panorama.jpg' and 'profile.png' images here.

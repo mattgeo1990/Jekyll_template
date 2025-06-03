@@ -1,0 +1,16 @@
+title: "Matthew Allen"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
