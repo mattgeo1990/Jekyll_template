@@ -1,4 +1,5 @@
 title: "Matthew Allen"
+baseurl: "/Jekyll_template"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
