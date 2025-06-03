@@ -1,5 +1,6 @@
 title: "Matthew Allen"
 theme: jekyll-theme-cayman
+baseurl: "/Jekyll_template"
 
 defaults:
   - scope:
