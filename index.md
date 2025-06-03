@@ -1,16 +1,9 @@
 ---
-layout: home
 title: "Welcome"
-header:
-  overlay_image: img/panorama.jpg
-  overlay_filter: 0.3
 ---
 
-<img src="img/profile.png" alt="Matthew Allen" style="width:120px;height:120px;border-radius:50%;border:4px solid #fff;display:block;margin:0 auto;background:#fff;" />
+# Welcome
 
-# Matthew Allen  
-**Postdoctoral Researcher · Stable Isotope Geochemist · Paleoclimate**
+I'm Matthew Allen, a postdoctoral researcher studying stable isotope geochemistry and paleoclimate.
 
----
-
-This site is under development. Please use the links above to explore individual sections of my academic work and background.
+Use the navigation links above to explore my work.
